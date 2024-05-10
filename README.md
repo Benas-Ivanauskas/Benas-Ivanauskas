@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Benas</h1>
-🙌 I'm junior Front-End developer from Vilnius, Lithuania.
+🙌 I'm junior full-stack developer from Vilnius, Lithuania.
 
 - 🌱 I’m currently learning **React, Node.js, Express.js, MongoDB**
 
